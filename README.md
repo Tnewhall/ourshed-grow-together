@@ -24,3 +24,11 @@ This is a **static website**: no Node.js, build step, Lovable, or npm is require
 ## Community initiative
 
 The planned Grow Together initiative proposes funding one basic community gardening kit for every ten GrowBox kits sold. No donation processing is active, and no verified partnerships or deliveries are claimed. The donation page is informational until the program is established.
+
+## November 5 website update
+
+- `assets/ourshed-logo.svg` contains the illustrated shed branding used in the header and footer.
+- `products.html?item=<slug>` displays six individually linked product concept details: `growbox-starter`, `growbox-extension`, `growbox-bundle`, `window-herb`, `patio-planter`, and `seed-starter`.
+- The GrowBox bundle consists of the Starter plus one Extension, with a proposed price of $59.99.
+- The responsive homepage, Garden Helper, and dedicated `donate.html` page remain in place.
+- No checkout, payment collection, or live donations are enabled.
